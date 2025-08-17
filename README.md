@@ -59,3 +59,6 @@ Developed by Geowin Varghese (GitHub: Raw-Fox)
 python-pptx – Parse and extract slide content
 
 Additional utils – text preprocessing, context handling
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Raw-Fox/ppt-qa-system/blob/main/main.ipynb)
+
