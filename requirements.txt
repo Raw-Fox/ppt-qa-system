@@ -1,0 +1,6 @@
+python-pptx
+transformers
+torch
+ipywidgets
+fpdf
+accelerate
